@@ -139,7 +139,7 @@ On the client-side, AEM works with all modern browsers (**Microsoft Edge**, **In
 
 Customers with a valid maintenance and support contract should have received a mail notification with a code and be able to download AEM from the [**Adobe Licensing Website**](https://licensing.adobe.com/). Business partners can request download access from [**spphelp@adobe.com**](mailto:spphelp@adobe.com).
 
-The AEM software package is available in two foms:
+The AEM software package is available in two forms:
 
 * **cq-quickstart-6.5.0.jar:** A standalone executable *jar* file that includes everything needed to get up and running.
 
